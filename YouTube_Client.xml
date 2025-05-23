@@ -12,9 +12,9 @@
     </item>
     <!--- items for category-->
     <item>
-      <title><![CDATA[Video 2]]></title>
-      <link><![CDATA[https://www.youtube.com/watch?v=ghi789jkl012]]></link>
-      <description><![CDATA[Questo è il video numero 2.]]></description>
+      <title><![CDATA[Trends]]></title>
+      <link><![CDATA[https://www.youtube.com/feed/trending?bp=6gQJRkVleHBsb3Jl]]></link>
+      <description><![CDATA[Trend]]></description>
     </item>
   </channel>
 </rss>

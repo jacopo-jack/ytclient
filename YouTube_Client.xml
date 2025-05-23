@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title><![CDATA[Canale Video]]></title>
+    <title><![CDATA[Home Youtube]]></title>
     <link><![CDATA[https://www.youtube.com/]]></link>
-    <description><![CDATA[Un elenco di video statici.]]></description>
+    <description><![CDATA[Homepage youtube.]]></description>
 
     <item>
-      <title><![CDATA[Video 1]]></title>
-      <link><![CDATA[https://www.youtube.com/watch?v=abc123def456]]></link>
-      <description><![CDATA[Questo è il video numero 1.]]></description>
+      <title><![CDATA[Home]]></title>
+      <link><![CDATA[https://www.youtube.com/]]></link>
+      <description><![CDATA[Homepage youtube]]></description>
     </item>
-
+    <!--- items for category-->
     <item>
       <title><![CDATA[Video 2]]></title>
       <link><![CDATA[https://www.youtube.com/watch?v=ghi789jkl012]]></link>
